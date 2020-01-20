@@ -19,5 +19,5 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  return num1.to_i ** num2.to_i
+  return num.to_i * num.to_i
 end
